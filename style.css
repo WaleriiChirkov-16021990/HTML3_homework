@@ -1,0 +1,41 @@
+ * {
+    padding: 0;
+    margin: 0;
+ }
+
+ a {
+    text-decoration: none;
+ }
+
+ .top {
+    width: 1920px;
+    height: 700px;
+ }
+
+ .link_header_left {
+    padding-top: 45px;
+    color: #000;
+        font-size: 24px;
+        font-family: Gilroy-Bold;
+ }
+
+ .link_header_right {
+    padding-top: 51px;
+ }
+
+ .top_info_title {
+    margin-top: 89px;
+ }
+
+.top_info_buttons {
+    padding-top: 37px;
+}
+
+.top_info_text {
+    margin-top: 17px;
+}
+
+.bottom_logos {
+    padding-top: 97px;
+    padding-bottom: 96px;
+}
